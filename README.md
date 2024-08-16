@@ -8,8 +8,3 @@
   
 ### 🐳 Currently learning Docker.
 ### 📫 [LinkedIn](https://www.linkedin.com/in/marcohaber99)
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcoshaber99/marcoshaber99/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
