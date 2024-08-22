@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Marco+👋;Welcome+to+my+GitHub!&start=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Marco+👋;Welcome+to+my+GitHub!&center=false&size=20">
 </h2>
 
 ### 💻 Mostly interested in full-stack web dev.
