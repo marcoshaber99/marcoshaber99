@@ -1,4 +1,4 @@
-#### 💻 Mostly interested in full-stack web dev.
+#### 💻 Mostly interested in Web Development and Photography.
 #### 🛠️ Building [my portfolio page](https://marcohaber.dev)
 #### 🖌️ Wrote my first [blog](https://www.marcohaber.dev/blog/react-context)
   
