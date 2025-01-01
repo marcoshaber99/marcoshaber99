@@ -1,6 +1,6 @@
 # Marco Haber
 
-Full-stack developer specializing in React and Next.js
+Curious Web Developer
 
 <p align="start">
   <a href="https://marcohaber.dev">
