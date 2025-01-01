@@ -1,6 +1,6 @@
 # Marco Haber
 
-Curious Web Developer
+Mostly focused in Full Stack Web Dev // TODO: write better bio 
 
 <p align="start">
   <a href="https://marcohaber.dev">
