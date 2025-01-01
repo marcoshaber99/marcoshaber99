@@ -1,6 +1,6 @@
 # Marco Haber
 
-Mostly focused in Full Stack Web Dev // TODO: write better bio 
+Mostly focused in Full Stack Web Dev.
 
 <p align="start">
   <a href="https://marcohaber.dev">
@@ -10,11 +10,11 @@ Mostly focused in Full Stack Web Dev // TODO: write better bio
 
 ## Current Focus
 
-- 🚀 Building modern web applications with React and Next.js
-- 🌐 Exploring the latest features in Next.js App Router and React 19
-- 📱 Learning React Native
+- Building modern web apps with React & Next.js
+- Exploring the latest features in Next.js 15 & React 19
+- Learning React Native
 
-## Main Tech Stack
+## Main Tech
 
 ### Frontend & UI
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,7 +34,7 @@ Mostly focused in Full Stack Web Dev // TODO: write better bio
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Latest Post
+## Latest Blog Post
 
 - [Next.js App Router Guide](https://www.marcohaber.dev/blog/nextjs-routing)
 
