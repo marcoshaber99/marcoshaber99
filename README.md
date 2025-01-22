@@ -36,7 +36,7 @@ Mostly focused in Full Stack Web Dev.
 
 ## Latest Blog Post
 
-- [Next.js App Router Guide](https://www.marcohaber.dev/blog/nextjs-routing)
+- [UseRef in React 19](https://www.marcohaber.dev/blog/useref-evolution)
 
 ## Connect
 
