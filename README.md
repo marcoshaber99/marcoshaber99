@@ -10,10 +10,8 @@ Mostly focused in Full Stack Web Dev.
 
 ## Current Focus
 
-- Building modern web apps
-- Exploring the latest features/changes in Next.js 15 & React 19
-- Learning React Native
-
+- 👨🏻‍💻 Building [Vivlio](https://vivlio.dev)
+  
 ## Main Tech
 
 ### Frontend & UI
