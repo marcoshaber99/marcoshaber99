@@ -10,7 +10,8 @@ Mostly focused in Full Stack Web Dev.
 
 ## Current Focus
 
-- 👨🏻‍💻 Building [Vivlio](https://vivlio.dev)
+- 👨🏻‍💻 Building [Vivlio](https://vivlio.dev) 
+- 🛠️ Developing a minimal, modern auth + file upload starter: [Auth Files Starter](https://github.com/marcoshaber99/auth-files-starter)
   
 ## Main Tech
 
