@@ -12,6 +12,16 @@ Mostly focused in Full Stack Web Dev.
 
 - 👨🏻‍💻 Building [Vivlio](https://vivlio.dev) 
 - 🛠️ Developing a minimal, modern auth + file upload starter: [Auth Files Starter](https://github.com/marcoshaber99/auth-files-starter)
+
+## Recent Projects
+
+### 📦 depwise
+
+[![npm version](https://badge.fury.io/js/depwise.svg)](https://www.npmjs.com/package/depwise)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+A simple CLI tool for evaluating npm package health. Get instant insights about package downloads, GitHub stats, and more.
+
   
 ## Main Tech
 
