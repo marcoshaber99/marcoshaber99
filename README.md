@@ -10,18 +10,12 @@ Mostly focused in Full Stack Web Dev.
 
 ## Current Focus
 
-- 👨🏻‍💻 Building [Vivlio](https://vivlio.dev) 
-- 🛠️ Developing a minimal, modern auth + file upload starter: [Auth Files Starter](https://github.com/marcoshaber99/auth-files-starter)
+👨🏻‍💻 Building [haber-ui](https://haberui.com) 
 
-## Recent Projects
+[![GitHub](https://img.shields.io/badge/GitHub-haber--ui-2ea44f?logo=github)](https://github.com/marcoshaber99/haberui)
+[![Website](https://img.shields.io/badge/Website-haberui.com-blue?logo=react)](https://haberui.com)
 
-### 📦 depwise
-
-[![npm version](https://badge.fury.io/js/depwise.svg)](https://www.npmjs.com/package/depwise)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
-A simple CLI tool for evaluating npm package health. Get instant insights about package downloads, GitHub stats, and more.
-
+A collection of React + Tailwind v4 components specifically designed for AI applications. Install components directly into your project via CLI, giving you full ownership of the code to customize as needed.
   
 ## Main Tech
 
@@ -51,3 +45,4 @@ A simple CLI tool for evaluating npm package health. Get instant insights about 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcohaber99/)
 [![Personal Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://marcohaber.dev)
+
