@@ -1,6 +1,6 @@
 # Marco Haber
 
-Mostly focused in Full Stack Web Dev.
+Web Dev.
 
 <p align="start">
   <a href="https://marcohaber.dev">
