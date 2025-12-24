@@ -1,19 +1,12 @@
 # Marco Haber
 
-Web Dev.
+Full-stack developer based in Cyprus. Building with React, Next.js, and TypeScript.
 
-<p align="start">
-  <a href="https://marcohaber.dev">
-    <img src="https://img.shields.io/badge/Website-marcohaber.dev-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Website" />
-  </a>
-</p>
+Currently working on [CurateWay](https://github.com/marcoshaber99/curateway).
+
+[![Website](https://img.shields.io/badge/marcohaber.dev-000?style=flat-square)](https://marcohaber.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcohaber99/)
 
 ## Latest Blog Post
 
-- [Understanding Git Worktrees](https://www.marcohaber.dev/blog/git-worktrees)
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcohaber99/)
-[![Personal Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://marcohaber.dev)
-
+- [Git Worktrees Explained](https://www.marcohaber.dev/blog/git-worktrees)
